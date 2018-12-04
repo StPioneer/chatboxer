@@ -1,0 +1,5 @@
+Django==2.1.3
+future == 0.17.1
+gunicorn ==19.9.0
+line-bot-sdk ==1.8.0
+requests == 2.19.1
